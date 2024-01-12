@@ -1,2 +1,2 @@
 A test file to commit
-Some extra text to commit and save
+Some extra text to commit
